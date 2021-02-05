@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "qwdqwdw dqw",
+      "description": "qw dqwdqw e",
+      "slug": "dqw 111",
+      "id": 1
+    },
+    {
+      "name": "wqd23e2",
+      "description": "2c e2",
+      "slug": "323 dwewddw",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "qw dqwd",
+      "description": "qw d qw",
+      "slug": "qw d",
+      "key": 1612518899957
+    },
+    {
+      "id": 1612558741539,
+      "name": "wdw",
+      "description": "dw",
+      "slug": "wdw",
+      "key": 1612558741539
+    }
+  ],
+  "managers": [
+    {
+      "id": 1612558312287,
+      "name": "dwq",
+      "description": "dwq",
+      "website": "dqwd",
+      "email": "wqdqw",
+      "key": 1612558312287
+    }
+  ],
+  "events": [
+    {
+      "id": 1612547178285,
+      "name": "Test 1 1",
+      "description": "Descrizione di prova descrizione di prova",
+      "category": 2,
+      "manager": 1612558312287,
+      "state": "Bozza",
+      "maxInvited": "5",
+      "dateTime": "2021-02-05 18:45",
+      "startDateTime": "2021-02-05 18:45",
+      "endDateTime": "2021-02-05 18:55",
+      "type": "Offline",
+      "tags": [
+        "Tag 1",
+        "Tag 2",
+        "Tag 3"
+      ],
+      "street": "Via dei test",
+      "city": "Sant'Egidio del Monte Albino",
+      "link": "https://google.it",
+      "isPublic": "true"
+    }
+  ]
+}
